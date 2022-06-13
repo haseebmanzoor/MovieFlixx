@@ -1,0 +1,14 @@
+export { default as Home } from "./Home/index";
+export { default as RegionTop } from "./RegionTop/index";
+export { default as Help } from "./Help/index";
+export { default as Login } from "./Login/index";
+export { default as Register } from "./Register/index";
+export { default as InitialScreen } from "./InitialScreen/index";
+export { default as Loader } from "./Loader/index";
+export { default as ComingSoon } from "./ComingSoon/index";
+export { default as MovieDetails } from "./MovieDetails/index";
+export { default as Modal } from "./Modal/index";
+export { default as Reviews } from "./Reviews/index";
+export { default as OverView } from "./OverView/index";
+export { default as Tickets } from "./Tickets/index";
+export { default as TicketDetails } from "./TicketDetails/index";
